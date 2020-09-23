@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I'm Alex!
 
-<!--
-**alexandzors/alexandzors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm new to Devops/Cloud automation. I'm more of the sysadmin and not the developer!
 
-Here are some ideas to get you started:
+I currently do Devops, UI, SQA and IT at my current job... its fun!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on [PlexWatchDog](https://github.com/alexandzors/plexwatchdog)
+- 🌱 I’m currently learning Advanced PowerShell
+- 💬 Ask me about tech!
+- 📫 How to reach me: [git@alexsguardian.net](mailto:git@alexsguardian.net)
+
+Check out my website @ https://alexsguardian.net
