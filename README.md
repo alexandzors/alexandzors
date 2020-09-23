@@ -11,3 +11,5 @@ I currently do Devops, UI, SQA and IT at my current job... its fun!
 - 📫 How to reach me: [git@alexsguardian.net](mailto:git@alexsguardian.net)
 
 Check out my website @ https://alexsguardian.net
+
+[![Alexandzors's github stats](https://github-readme-stats.vercel.app/api?username=alexandzors)](https://github.com/anuraghazra/github-readme-stats)
