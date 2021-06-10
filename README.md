@@ -7,6 +7,7 @@ I currently do Devops, UI, SQA and IT at my current job... its fun!
 - 🌱 I’m currently learning advanced `PowerShell` scripting
 - 💬 Ask me about tech!
 - 📫 How to reach me: [git@alexsguardian.net](mailto:git@alexsguardian.net)
+- 🏢 I work for [Precision Dynamics](https://github.com/precisiondynamics)
 
 Check out my website @ https://alexsguardian.net
 
