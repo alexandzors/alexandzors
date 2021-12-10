@@ -11,6 +11,7 @@ I currently do Devops, UI, SQA and IT at my current job... its fun!
 - :memo: I write stories for Space Turtle Studio
 
 Hire me @ https://alexsguardian.net
+
 I blog @ https://blog.alexsguardian.net
 
 Check out my Caddy docker image @ https://hub.docker.com/r/alexandzors/caddy
