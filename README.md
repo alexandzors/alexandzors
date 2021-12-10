@@ -8,8 +8,10 @@ I currently do Devops, UI, SQA and IT at my current job... its fun!
 - 💬 Ask me about tech!
 - 📫 How to reach me: [a_henderson@alexsguardian.net](mailto:a_henderson@alexsguardian.net)
 - 🏢 I work for [Precision Dynamics](https://github.com/precisiondynamics)
+- :memo: I write stories for Space Turtle Studio
 
-Check out my website @ https://alexsguardian.net
+Hire me @ https://alexsguardian.net
+I blog @ https://blog.alexsguardian.net
 
 Check out my Caddy docker image @ https://hub.docker.com/r/alexandzors/caddy
 
