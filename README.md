@@ -15,7 +15,7 @@
 I'm a DevOps Admin guy so not much into programming. I currently do DevOps, UI/UX, and IT at my current job... it's fun!
 <br />
 <br />
-Currently based in the USA :us: and working for <a href="https://github.com/precisiondynamics" target="_blank">Precision Dynamics</a>.
+Currently based in the USA <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/313/flag-united-states_1f1fa-1f1f8.png" width=12px height=12px> and working for <a href="https://github.com/precisiondynamics" target="_blank">Precision Dynamics</a>.
 <br />
 <br />
 I like learning new tech, working on my homelab, playing games, and 3d printing!
